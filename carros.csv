@@ -1,0 +1,1001 @@
+ano,marca,modelo,cor,placa,preco
+2012,Dodge,Aries,Khaki,uvc-2143,30338.28
+1993,Toyota,Paseo,Mauv,mvi-5072,158989.1
+2009,Buick,LeSabre,Orange,mac-0700,90938.64
+2004,GMC,Vandura 2500,Blue,mty-8621,198141.75
+2015,Toyota,Sienna,Crimson,vhl-0227,155848.65
+2003,GMC,Sierra 1500,Turquoise,mzp-6385,7770.69
+2007,Toyota,MR2,Khaki,bzg-5316,66330.81
+1995,Lexus,LS,Maroon,cda-3224,112578.91
+2009,Chevrolet,2500,Violet,djk-3262,167271.89
+2005,Ford,Econoline E350,Green,bsc-1314,31551.91
+1997,Ford,Escape,Puce,edc-4965,57270.33
+2013,Mercedes-Benz,SL-Class,Indigo,gjb-4465,78055.01
+2021,GMC,Yukon Denali,Green,mas-0649,152813.46
+2007,Nissan,Quest,Maroon,vrq-0845,21008.91
+1993,Pontiac,Parisienne,Pink,hvh-2032,149120.17
+2000,Volkswagen,Golf,Mauv,yof-8967,85993.44
+2008,Chevrolet,Express 1500,Maroon,vwf-6683,126374.34
+2010,Isuzu,Trooper,Goldenrod,zge-6143,100789.45
+1995,Dodge,Ram Van B150,Maroon,mar-8964,107779.88
+2016,Nissan,Titan,Pink,gbk-9452,54974.97
+2012,Buick,LaCrosse,Green,nux-6748,129232.7
+2017,Acura,RL,Maroon,ukr-8910,104600.62
+1992,Nissan,Pathfinder,Aquamarine,zzw-0887,170984.13
+2009,Porsche,928,Fuscia,exa-9432,23949.73
+1991,Mazda,Millenia,Goldenrod,kst-1323,165688.37
+2007,Toyota,Tacoma,Mauv,ipo-8558,48647.37
+1994,Porsche,Boxster,Orange,ttv-3669,88075.18
+1990,Subaru,Loyale,Aquamarine,vkv-4457,140564.81
+2002,Mazda,B-Series,Orange,vkn-4645,75472.37
+2018,Infiniti,FX,Blue,zmk-9999,17306.92
+2006,Toyota,Camry,Fuscia,skp-7252,178358.0
+2005,Chevrolet,Suburban 2500,Orange,tep-6322,40467.67
+2006,Plymouth,Neon,Puce,wyq-4921,126420.0
+1992,Ford,Freestar,Fuscia,tlr-3752,28156.67
+2016,Subaru,Justy,Khaki,iuz-2440,41197.95
+1994,Subaru,Legacy,Maroon,vfi-7343,9377.27
+2022,Hyundai,Veracruz,Orange,fqs-5582,159293.0
+1994,Maserati,Spyder,Turquoise,rkn-4407,143705.07
+1992,Hyundai,Accent,Pink,qxn-8209,93299.28
+2012,Ford,Galaxie,Goldenrod,jyk-9355,99560.35
+1991,Suzuki,Sidekick,Crimson,wzg-4828,177087.23
+1998,Saab,9-2X,Puce,ema-6101,99591.97
+1995,Buick,Roadmaster,Goldenrod,zgi-5980,174484.6
+1993,Mercedes-Benz,E-Class,Puce,vxc-0464,198978.56
+2012,BMW,530,Goldenrod,iix-1689,94927.77
+2017,Lincoln,Continental Mark VII,Yellow,ewy-5315,29963.42
+2019,Dodge,Grand Caravan,Green,sgf-9000,168757.39
+1993,Chrysler,Cirrus,Teal,fsv-1461,170015.49
+2018,Mercedes-Benz,SL-Class,Red,nlt-5302,187181.74
+2002,Subaru,Forester,Green,yaz-3122,73288.17
+1993,Ford,F250,Green,ggb-3464,199046.35
+2018,GMC,Savana 3500,Yellow,lnx-3989,31503.48
+2022,Chrysler,Sebring,Fuscia,bod-3949,111218.42
+2016,Jeep,Grand Cherokee,Teal,fwj-2886,67001.29
+2017,Plymouth,Reliant,Goldenrod,kyi-4046,140716.22
+2017,Toyota,Corolla,Blue,yza-1574,8716.85
+2021,Chevrolet,HHR,Pink,ryy-6644,110194.96
+2010,Mitsubishi,RVR,Red,vry-4321,162572.79
+2014,Mitsubishi,Mirage,Pink,ogs-1779,76411.59
+1990,Volkswagen,New Beetle,Teal,xvd-7260,44725.28
+2000,BMW,M5,Puce,rxu-1612,199555.09
+2017,Mercury,Villager,Blue,wca-0654,155031.41
+2007,Mitsubishi,Mighty Max Macro,Yellow,xid-5185,19503.9
+2020,Ford,Ranger,Red,axz-9242,55602.98
+2019,Aston Martin,V8 Vantage,Teal,xfi-3207,140946.57
+2007,Jaguar,XJ Series,Purple,zfw-5284,189780.73
+1997,Geo,Prizm,Mauv,tqm-6044,187878.34
+1990,Volkswagen,Cabriolet,Orange,djv-2974,168632.27
+2017,Lincoln,Navigator,Orange,bqs-6545,61519.17
+2017,Audi,A4,Maroon,mwe-3320,167662.91
+1991,Volkswagen,Golf,Aquamarine,krj-8706,91129.61
+2005,Infiniti,G,Mauv,rxw-1854,92577.09
+2014,Toyota,Land Cruiser,Fuscia,oqe-6174,83470.4
+1997,Mercedes-Benz,S-Class,Pink,isv-1209,91445.44
+1990,Mazda,MX-5,Puce,fzo-0503,199179.77
+2021,Dodge,Ram 1500 Club,Green,cvx-2260,16418.81
+1991,Porsche,Cayenne,Violet,uit-8680,8385.23
+2019,Volkswagen,Cabriolet,Pink,ysm-7923,18168.82
+1996,Dodge,Avenger,Pink,cbz-5525,198265.12
+1999,Ford,Aerostar,Blue,afa-8246,23645.13
+1995,Spyker,C8,Maroon,sen-5065,174825.12
+2008,Porsche,Cayman,Crimson,ghe-8521,96693.96
+2012,Cadillac,Eldorado,Purple,spg-4755,51417.96
+2017,Mazda,MX-3,Teal,yvj-1720,148950.83
+2016,Dodge,Stratus,Pink,dbj-4752,11608.83
+1997,Cadillac,XLR-V,Teal,lun-7849,59892.07
+2000,Subaru,Outback,Blue,pis-1307,87306.91
+2004,GMC,Envoy,Turquoise,mxl-4923,103144.75
+2019,Ford,C-MAX Hybrid,Khaki,ckt-0497,75784.68
+2012,Nissan,Pathfinder,Purple,lzr-5805,22874.52
+2020,GMC,Sierra 2500,Turquoise,hmo-8203,46646.22
+2001,Suzuki,XL-7,Crimson,zqb-2559,106307.71
+1996,Plymouth,Fury,Blue,zcf-8643,152029.35
+2002,Mazda,626,Violet,tbp-5545,45107.81
+1999,Mazda,B-Series,Aquamarine,pge-1077,101226.58
+2013,Acura,TL,Goldenrod,lls-8465,114960.85
+2009,Toyota,Matrix,Red,zwl-9723,137342.58
+2014,Ford,Torino,Maroon,oql-3833,138644.64
+1998,MINI,Cooper Clubman,Crimson,yqx-5048,143108.22
+2020,Hyundai,XG350,Violet,zxi-8223,129956.06
+1993,Chevrolet,Silverado 2500,Orange,jwk-1474,77801.15
+2002,Ford,Thunderbird,Green,ihp-4054,95414.26
+2006,Toyota,Matrix,Yellow,bky-5933,51944.2
+2010,Ford,Taurus,Green,rws-2856,68841.45
+2006,Audi,S4,Crimson,qfq-8185,128901.33
+1998,Ford,E350,Pink,fko-5453,13369.84
+1999,Chrysler,Sebring,Indigo,zfg-5006,178353.25
+2011,MINI,Cooper Countryman,Maroon,myt-7155,175985.18
+2019,Acura,Integra,Violet,aib-6162,146305.73
+1991,Ford,E250,Teal,wmd-3931,31174.03
+1994,Jaguar,XF,Crimson,box-7065,179811.83
+1992,Plymouth,Laser,Blue,wal-6875,94014.61
+1997,Land Rover,Discovery,Blue,twp-1636,42757.97
+1994,Ferrari,FF,Yellow,wcg-9127,68701.01
+2001,GMC,Sierra 1500,Teal,fnd-9774,135934.31
+2015,Mercury,Mariner,Purple,kpy-2139,105524.58
+2017,BMW,X5,Pink,jgs-5406,172632.8
+2007,Geo,Tracker,Red,sau-8255,6973.27
+2014,Toyota,Camry,Turquoise,nci-6364,136429.25
+2015,Cadillac,Escalade,Yellow,wla-1512,118009.66
+2005,Toyota,Paseo,Purple,gnr-8344,122489.12
+2017,Isuzu,Ascender,Teal,zoz-4489,106658.34
+1994,GMC,Savana 3500,Purple,fnh-6254,156021.57
+2009,Toyota,Camry,Violet,sno-0635,162305.27
+2020,Ferrari,F430,Red,ctg-7054,69946.79
+1995,Lotus,Esprit,Puce,mak-9790,68520.61
+2008,Ford,Transit Connect,Fuscia,dpz-9899,124027.59
+2012,Infiniti,G37,Teal,tma-0978,9985.06
+2009,BMW,525,Orange,jeo-2704,194323.9
+2006,Hummer,H3,Maroon,duv-5406,33685.76
+2014,Isuzu,Axiom,Puce,zui-3689,50314.68
+2002,Foose,Hemisfear,Blue,dpn-8996,128731.1
+1998,Ford,F350,Fuscia,bew-4005,125532.08
+2003,Mazda,Tribute,Khaki,jvc-1884,172081.21
+1994,Dodge,Ram Van B250,Mauv,wjx-1494,112130.06
+2000,Kia,Sportage,Maroon,zxh-9214,142602.26
+1993,Dodge,Magnum,Green,azw-7588,98018.09
+1990,Ford,Th!nk,Purple,vsu-4011,7661.72
+2006,Dodge,Monaco,Mauv,glp-8510,62582.13
+2012,Ferrari,458 Italia,Blue,sfb-1350,94265.16
+2004,Pontiac,Montana SV6,Mauv,skd-2071,95345.9
+2022,Austin,Mini,Turquoise,jcr-5939,162023.08
+2009,Ford,Crown Victoria,Indigo,aba-3295,27580.56
+2019,Cadillac,XLR-V,Crimson,shr-1996,132622.58
+2013,Ford,Fiesta,Aquamarine,xwx-8241,146807.39
+1993,Volkswagen,Cabriolet,Blue,dwy-7131,75872.74
+2015,GMC,Savana 1500,Aquamarine,krk-4842,156838.61
+2014,Hummer,H2,Fuscia,kbt-5964,160060.75
+2015,Audi,A3,Puce,jam-9379,88334.69
+2009,Mercedes-Benz,M-Class,Goldenrod,xne-9839,44789.25
+2011,Buick,LeSabre,Teal,leg-4149,44883.72
+1991,Nissan,Sentra,Aquamarine,dwr-1975,159009.36
+2021,Acura,Legend,Orange,xrl-6126,18448.29
+2013,Porsche,914,Khaki,rke-5304,137024.64
+2016,Volvo,V50,Orange,kxj-4843,164352.19
+2003,Toyota,Camry,Fuscia,ynu-1761,151918.28
+1999,GMC,Yukon,Red,vtw-3607,121581.83
+1993,Saturn,L-Series,Violet,noz-8108,62392.13
+2012,Ford,Explorer,Green,fke-8956,83026.15
+2001,Nissan,Sentra,Orange,ebc-6552,106169.11
+2006,Ferrari,458 Italia,Violet,pyc-9720,126924.38
+2017,Mitsubishi,Starion,Turquoise,fkn-0623,151309.02
+2001,BMW,8 Series,Violet,rub-7381,153602.66
+1995,Acura,RL,Pink,cdf-1729,83159.94
+2018,Alfa Romeo,Spider,Crimson,hvb-6005,50334.66
+1992,Mitsubishi,Mighty Max,Indigo,fqo-3767,112566.26
+1991,Lexus,RX Hybrid,Purple,kdj-5431,69621.02
+2013,Subaru,Impreza WRX,Purple,zme-8424,6413.05
+2009,Oldsmobile,88,Crimson,tie-1215,26737.61
+2003,GMC,Sonoma,Purple,ljb-9991,162105.4
+2016,Dodge,Viper RT/10,Indigo,ped-6787,9039.89
+1992,Ford,Escape,Khaki,mqu-8896,105184.49
+1995,Suzuki,Grand Vitara,Indigo,mvj-4624,148839.44
+2003,BMW,Z4,Mauv,rtb-9592,77063.75
+2005,Chevrolet,Tahoe,Pink,brn-1045,109786.68
+2017,Dodge,Dakota Club,Aquamarine,ixs-6324,81869.24
+2003,Ford,F350,Violet,jba-3848,18152.73
+1996,Mitsubishi,Precis,Indigo,aot-4285,179409.52
+1991,Suzuki,Grand Vitara,Khaki,bey-9534,74156.55
+2001,Nissan,Quest,Indigo,cum-0765,135210.59
+2017,Pontiac,Firebird Formula,Crimson,veh-2600,91706.09
+2000,Chevrolet,Silverado 2500,Puce,wvu-4939,26851.22
+1997,Ford,Mustang,Aquamarine,nfm-8178,23385.17
+2000,Toyota,Corolla,Fuscia,srg-1728,6069.96
+1999,Honda,Civic Si,Orange,hit-9247,184144.07
+1997,Mazda,323,Turquoise,fyc-6744,190413.03
+2013,Mitsubishi,Galant,Yellow,bmt-3565,95190.63
+2016,Chevrolet,G-Series G10,Violet,hnp-7124,124095.38
+2012,Audi,A4,Blue,qxs-8071,45596.8
+2009,Volkswagen,Jetta,Violet,add-0801,92348.58
+2005,Saab,9-3,Turquoise,izn-5220,167967.34
+1991,GMC,Envoy,Red,evd-7212,144289.7
+2022,Mitsubishi,Mighty Max,Fuscia,vmj-6607,55576.65
+1997,Saab,9-5,Purple,kta-8764,196619.21
+2011,Chevrolet,Impala,Pink,ljv-8462,177203.84
+2007,Pontiac,Grand Prix,Teal,zxy-3144,56336.5
+2004,Dodge,Aspen,Purple,ddx-4111,94094.71
+2021,Pontiac,Vibe,Red,hyh-5791,181989.22
+1992,Bentley,Continental,Purple,hsi-1422,20211.21
+2008,Mercedes-Benz,SL-Class,Violet,bfs-7894,170760.18
+2012,GMC,Savana 1500,Orange,dny-9320,65234.59
+2022,Jeep,Compass,Turquoise,jfz-0627,92619.68
+2016,GMC,Rally Wagon G3500,Yellow,yue-5924,77278.05
+1990,Acura,Vigor,Turquoise,ahx-2334,166684.1
+2006,Chrysler,Sebring,Purple,kvt-6568,160954.81
+1999,Maybach,Landaulet,Goldenrod,aft-8067,161313.76
+2018,Dodge,Caliber,Aquamarine,hnl-0287,199588.31
+2000,GMC,Yukon XL 2500,Violet,hov-7689,55543.76
+1998,Toyota,Highlander,Purple,zhn-1356,71262.74
+2013,Dodge,Intrepid,Blue,tgs-3532,34392.57
+2009,Nissan,300ZX,Aquamarine,kkb-0230,49770.55
+1990,MINI,Clubman,Turquoise,rru-5096,121205.08
+2001,Nissan,Pathfinder Armada,Aquamarine,aaa-8427,133222.94
+1998,Lexus,LS,Teal,khf-5718,149707.68
+1994,Kia,Carens,Yellow,cqb-2451,180984.94
+1991,Volvo,V50,Aquamarine,fbs-1252,173253.57
+2017,GMC,3500 Club Coupe,Green,evk-3558,21707.35
+2019,Land Rover,Discovery Series II,Goldenrod,dha-5328,142652.7
+1990,Mazda,RX-7,Blue,qfs-7941,121388.93
+2015,Cadillac,CTS-V,Red,phi-8911,117102.92
+2013,GMC,Savana 3500,Purple,owf-4665,98208.1
+2012,Ford,F350,Mauv,aqx-1247,96617.06
+2012,Saab,9-3,Yellow,wia-1431,59218.43
+2003,Chevrolet,Uplander,Pink,ihf-3419,99759.43
+2021,Dodge,Ram 3500 Club,Blue,azt-5139,42184.75
+2015,Subaru,Justy,Khaki,sxz-5035,159402.17
+2001,Lexus,RX Hybrid,Puce,xan-6683,19839.22
+2013,Ford,Bronco,Maroon,mrs-5990,97817.88
+2006,Mitsubishi,Montero,Turquoise,eas-6179,82759.0
+2009,Chevrolet,SSR,Aquamarine,thq-7796,143768.13
+1992,BMW,8 Series,Yellow,veg-5916,172851.25
+2021,Maserati,Biturbo,Maroon,jjw-1446,104583.97
+1995,Isuzu,Trooper,Fuscia,kyq-7665,39732.84
+2005,Nissan,240SX,Indigo,rwy-0532,49547.65
+1995,Mercedes-Benz,E-Class,Teal,ttk-8325,83632.25
+2004,Audi,90,Orange,bpu-4048,118229.54
+2001,Volkswagen,New Beetle,Blue,uvx-3439,78060.16
+2006,Acura,TSX,Pink,miy-7037,54540.24
+2011,Ford,Aspire,Khaki,wdv-8992,194328.42
+2005,Volkswagen,Jetta,Crimson,oiq-9166,141549.32
+2000,Ford,Fusion,Purple,pqo-9755,76541.81
+1996,Scion,FR-S,Violet,bfl-0631,8881.07
+2014,Chevrolet,Lumina,Teal,dgz-6592,186538.69
+2019,Toyota,Highlander,Blue,acz-8545,191638.72
+1998,BMW,1 Series,Pink,mhi-5281,68167.08
+1991,Mercedes-Benz,S-Class,Pink,ziv-7767,130187.16
+2022,Mazda,MX-5,Teal,hqm-5820,187222.34
+2003,BMW,6 Series,Fuscia,dks-3624,88758.64
+2005,Jaguar,XK,Blue,ngd-3879,129780.62
+1991,Mazda,929,Green,nvg-7576,50980.67
+1999,Volvo,V70,Violet,nib-7261,56709.16
+2020,Mitsubishi,Truck,Yellow,ixn-6173,144421.0
+1995,Chevrolet,Corvette,Mauv,gkp-0534,186725.19
+2017,Suzuki,SX4,Indigo,bcb-6495,186343.48
+2015,Pontiac,Solstice,Blue,cyi-2696,57437.53
+2010,Chevrolet,G-Series 3500,Maroon,jwt-6545,104582.57
+1995,Nissan,240SX,Pink,dte-5147,52997.05
+2010,Ford,F350,Puce,ija-1999,184597.92
+1999,Nissan,Quest,Pink,onv-4892,195460.92
+1998,Hyundai,Excel,Goldenrod,oeg-4472,26360.46
+2002,Jeep,Liberty,Purple,err-4443,112050.7
+1990,Infiniti,Q,Maroon,ime-0339,28680.3
+2011,Ford,F150,Maroon,kui-9441,63694.59
+2018,Dodge,Viper,Pink,owo-5819,112051.37
+1999,Daewoo,Lanos,Violet,tjt-8473,187411.43
+1997,Volvo,V70,Fuscia,yhg-5554,192304.77
+1992,Toyota,Tacoma,Indigo,rkm-0693,72416.01
+1994,Chevrolet,Tahoe,Yellow,ntq-7012,28714.91
+1998,BMW,X5,Pink,hwh-8247,34347.54
+2021,Mercedes-Benz,C-Class,Puce,iay-0124,7634.6
+2002,Jeep,Patriot,Goldenrod,hhw-5014,81731.28
+1995,BMW,M3,Turquoise,rgq-2704,24209.92
+2010,Mercedes-Benz,CLS-Class,Puce,yrz-8683,5945.66
+2001,Saab,9-5,Khaki,ckv-9077,53968.54
+2001,Audi,5000S,Violet,vaj-8811,70301.06
+1990,Toyota,Sienna,Purple,duy-7150,172396.28
+2006,Mercedes-Benz,G-Class,Blue,zaf-5263,69592.18
+2012,BMW,7 Series,Khaki,jsh-0667,82935.64
+2021,Volkswagen,Passat,Turquoise,lbm-1586,80035.22
+2009,Nissan,Xterra,Teal,ntx-0286,183376.49
+2019,GMC,Vandura 3500,Khaki,kjl-6035,160260.9
+2000,Toyota,Tundra,Yellow,wvh-2678,21379.36
+1993,Volkswagen,Passat,Mauv,gmy-4116,196880.62
+1993,Mitsubishi,Starion,Yellow,ala-5456,29596.05
+1992,BMW,X3,Maroon,brc-4144,38471.71
+1996,Porsche,Boxster,Red,aum-8959,16635.15
+2021,Audi,A6,Green,cbf-9142,37284.06
+2011,Plymouth,Grand Voyager,Goldenrod,xjg-0918,5171.93
+1999,Ford,Explorer Sport Trac,Turquoise,gla-9447,120681.51
+2006,Mercedes-Benz,C-Class,Turquoise,zae-2641,9426.2
+2019,Chevrolet,Impala,Fuscia,aqk-2125,60630.45
+2011,Hyundai,Entourage,Aquamarine,mes-3141,70470.62
+2009,Oldsmobile,Aurora,Orange,vqm-7794,99311.72
+2011,BMW,7 Series,Fuscia,rwb-5569,185086.57
+2003,GMC,Sierra 1500,Teal,exj-3819,74709.49
+2021,Ford,Taurus,Orange,bsn-3725,66818.82
+1990,Ford,E350,Crimson,mbr-3996,136140.3
+1999,Nissan,Frontier,Mauv,osd-0691,187173.46
+2020,Chevrolet,Suburban 2500,Blue,yor-5729,134342.89
+1990,Acura,SLX,Violet,bfc-4003,28454.12
+2022,Pontiac,Grand Am,Yellow,nio-5683,83335.18
+2018,Subaru,Legacy,Pink,qcw-0071,173627.62
+2002,Mercury,Grand Marquis,Orange,hfg-3802,169176.72
+2005,Lexus,SC,Indigo,etw-1222,172538.76
+1995,Ford,Transit Connect,Teal,mhk-3772,179885.99
+2005,Chevrolet,Impala,Teal,sov-9430,8690.05
+2008,Ford,E-Series,Yellow,rkl-3083,164717.49
+1997,Chevrolet,Impala,Mauv,bgy-1672,65581.72
+2021,Volkswagen,Scirocco,Red,ubc-9064,192704.25
+2014,Toyota,Solara,Goldenrod,ffg-8591,25202.69
+2008,Mitsubishi,Outlander,Crimson,eaw-7364,25180.58
+1998,Dodge,Ram 1500,Indigo,hig-1620,124142.7
+2020,Chevrolet,Cavalier,Maroon,wju-5337,134799.71
+1997,Chevrolet,Express 3500,Yellow,nul-7633,121791.02
+1992,Mazda,CX-7,Maroon,wzx-6788,16356.79
+2011,Maserati,GranTurismo,Puce,gqz-3471,69140.51
+2001,Chevrolet,Silverado,Mauv,tfb-0290,174692.8
+2017,Infiniti,FX,Indigo,lxh-2921,88688.73
+1992,Subaru,Legacy,Pink,ycy-9480,39681.47
+2011,Dodge,Grand Caravan,Crimson,esu-5663,63334.16
+1997,Pontiac,Montana SV6,Yellow,nse-4251,10047.26
+2005,GMC,Yukon XL 1500,Green,jqs-4637,36140.44
+2005,Jeep,Liberty,Mauv,yiv-8253,28272.01
+2005,Jeep,Commander,Red,oeq-5975,113068.53
+2021,Cadillac,Escalade EXT,Red,rux-3636,97862.01
+2003,Suzuki,Grand Vitara,Goldenrod,pxp-2671,108152.13
+2001,Lincoln,Continental Mark VII,Khaki,nle-1524,142352.05
+2021,Lexus,IS,Fuscia,cuu-6281,91083.16
+1997,Ford,Mustang,Green,sps-4713,127320.39
+2000,Cadillac,CTS-V,Aquamarine,lcl-2218,184406.65
+1995,Chevrolet,Silverado 1500,Pink,okb-0890,117535.4
+2010,Acura,MDX,Aquamarine,eij-1319,117990.11
+2002,Toyota,Previa,Teal,vcz-6164,181906.49
+1993,Mercury,Mariner,Maroon,afo-7865,82125.18
+1999,Chrysler,Concorde,Khaki,suo-5832,61689.89
+1993,Bentley,Azure,Maroon,gov-6765,68839.76
+2016,Kia,Rio,Teal,pfg-6078,120450.76
+2006,Nissan,Murano,Fuscia,ymy-9573,124839.32
+2016,Audi,A8,Pink,fcb-6320,104833.61
+2020,Honda,Civic,Purple,vxj-0453,5344.31
+2011,Nissan,240SX,Aquamarine,chi-5535,150300.52
+1992,Mitsubishi,Endeavor,Crimson,ebv-1573,150053.46
+2005,Kia,Mentor,Blue,lxr-1053,170168.93
+2012,Hyundai,Sonata,Goldenrod,axj-9724,165158.41
+2009,Hummer,H3,Red,kka-1769,109379.73
+2003,Mercedes-Benz,GL-Class,Purple,mnc-3387,68950.84
+1998,BMW,M5,Violet,zhz-3074,194771.34
+2002,Lincoln,Town Car,Puce,lip-1649,141390.39
+1996,Ford,F-Series,Aquamarine,sdg-1546,58889.91
+2003,Pontiac,Torrent,Red,fuh-7184,191251.93
+1993,Ford,F350,Violet,cwp-4427,98433.62
+2007,Chevrolet,Express 2500,Blue,ina-8744,135422.28
+2017,Buick,Enclave,Blue,ddv-7461,99398.24
+2007,Chevrolet,Tahoe,Pink,rgx-0499,148125.0
+2003,Chevrolet,Silverado,Goldenrod,pyb-5816,132451.62
+2008,Dodge,Charger,Green,rzu-2648,150721.02
+1999,Buick,Reatta,Aquamarine,yxl-0980,69633.48
+2001,Lexus,LX,Fuscia,klt-6913,110668.39
+2022,Chevrolet,Corvette,Blue,eym-6073,62641.92
+2011,GMC,2500,Puce,lfd-7815,59914.27
+2017,Honda,Prelude,Puce,tsc-6782,32010.65
+2006,Ford,Thunderbird,Aquamarine,vwh-6105,109941.6
+2009,Toyota,4Runner,Teal,afe-3401,162258.94
+1998,Land Rover,Range Rover,Yellow,zeu-2546,14055.76
+1998,Subaru,Legacy,Indigo,aax-7123,197061.15
+2004,Nissan,Frontier,Goldenrod,kxq-3056,40667.35
+2019,Chevrolet,G-Series 2500,Red,ywj-5159,14130.44
+1998,Mitsubishi,Galant,Fuscia,dhs-8466,90182.55
+1995,Jeep,Patriot,Fuscia,jpm-0429,40904.67
+1990,Ford,Ranger,Crimson,rkn-6657,26383.18
+1991,Lincoln,MKZ,Goldenrod,qgk-4188,30424.43
+1997,Nissan,Xterra,Indigo,loq-8548,168326.01
+2006,Toyota,Previa,Teal,lpp-7577,144739.98
+2016,Land Rover,Range Rover,Yellow,bnv-3327,172218.77
+2015,GMC,Savana 3500,Fuscia,pbj-0289,64692.93
+2002,Mercury,Marquis,Blue,dbu-9360,10388.88
+1995,Mazda,929,Goldenrod,okv-9951,130452.35
+2009,Honda,Civic,Puce,hcb-6561,28943.56
+2003,Chrysler,300M,Red,aoq-6157,177652.89
+1997,Chevrolet,Express 1500,Puce,zpv-6763,59552.04
+2007,Mitsubishi,Outlander,Crimson,qdp-8247,160135.0
+2001,Pontiac,Gemini,Purple,nmp-9665,190671.87
+2014,GMC,Sierra 3500,Fuscia,jwf-6277,100202.93
+1993,GMC,Jimmy,Crimson,eog-4481,117810.96
+2006,Nissan,200SX,Blue,wpq-8918,127245.83
+2011,Mazda,Miata MX-5,Blue,ngv-9824,157820.63
+2004,Audi,R8,Khaki,vza-5420,57738.0
+2019,Dodge,Ram 1500,Teal,smy-1551,122036.04
+1999,Mercury,Villager,Pink,lxy-6856,14965.89
+2015,GMC,Sierra 3500,Green,lti-4011,131735.77
+2010,Mercury,Villager,Crimson,twk-1413,143654.32
+1998,Pontiac,Aztek,Maroon,rmr-2342,101073.75
+2002,GMC,Sierra,Mauv,hkl-6136,85728.94
+1990,Ferrari,458 Italia,Pink,hnz-0690,196708.26
+2021,Mercedes-Benz,SLR McLaren,Fuscia,ndk-2736,190308.89
+1990,Lexus,LX,Blue,dka-0356,146701.01
+2021,BMW,Z4 M Roadster,Mauv,zro-4173,144307.91
+1994,Infiniti,FX,Purple,bhs-9618,101638.42
+2019,BMW,M,Pink,ezk-1371,24212.55
+1996,Oldsmobile,Aurora,Khaki,cal-5560,6699.01
+1998,Jeep,Grand Cherokee,Indigo,htj-2946,183825.25
+1990,Lexus,GS,Maroon,hvc-1855,44755.12
+2002,Acura,RL,Mauv,nqi-2482,182286.67
+2012,Dodge,Durango,Crimson,kbk-2329,76321.0
+2007,Porsche,Carrera GT,Green,kpi-0315,60197.65
+2012,Mitsubishi,Galant,Violet,xgl-8495,142509.9
+1993,Jaguar,S-Type,Purple,qyq-1610,173765.12
+2015,Mitsubishi,Cordia,Maroon,mrj-9590,50972.21
+2012,Mazda,Miata MX-5,Red,jpm-0842,76031.72
+2003,Chevrolet,Beretta,Green,xvx-9450,125657.9
+2000,Ford,Thunderbird,Khaki,ejq-1673,34214.88
+2004,BMW,M6,Aquamarine,lae-8874,104017.25
+2001,Buick,Skylark,Fuscia,uwe-8055,140724.69
+2004,GMC,Savana 3500,Blue,lqz-6749,56474.24
+1990,Cadillac,STS,Crimson,zlv-1521,163707.81
+2003,Land Rover,Defender,Fuscia,ato-4428,153014.28
+2019,Lexus,GX,Teal,tpt-2765,18076.77
+2005,Saturn,Aura,Khaki,fyz-5716,139185.36
+1999,Ford,E-350 Super Duty Van,Crimson,gfz-9443,111116.02
+1996,Hummer,H3,Crimson,rcd-7149,172141.11
+2008,Ford,E150,Turquoise,zyh-5579,27540.23
+2008,Ford,F350,Indigo,nat-4544,93818.84
+1995,Buick,Skylark,Blue,uud-3501,199323.09
+2020,Audi,Quattro,Orange,clw-2689,71348.16
+2022,Dodge,Viper,Red,adi-3666,120452.32
+2002,Nissan,Sentra,Purple,hbx-2463,57863.13
+2002,Audi,A4,Yellow,vth-8970,99172.17
+2012,Suzuki,Esteem,Puce,git-5039,132205.82
+1994,Subaru,Outback,Maroon,idx-8753,73693.65
+2006,Lotus,Esprit,Teal,iat-5553,185263.97
+2017,Chevrolet,Express 2500,Orange,qbo-3980,132156.51
+1997,BMW,Z8,Goldenrod,rqx-1772,125928.19
+1997,Pontiac,Grand Prix,Indigo,zma-1797,117101.59
+2004,Mercedes-Benz,CL-Class,Yellow,bkx-0601,69523.7
+2016,Cadillac,DeVille,Turquoise,uqk-6246,196038.42
+2022,Nissan,Versa,Yellow,evy-4765,51078.0
+2017,Chevrolet,Express 2500,Goldenrod,pfe-2721,87955.78
+2009,Kia,Sportage,Goldenrod,dyk-3958,174769.08
+2018,MINI,Cooper,Green,qpo-4283,148810.36
+2008,Saturn,S-Series,Teal,qgl-6237,24747.16
+2021,Volkswagen,Tiguan,Khaki,xub-0907,72964.68
+2016,Ford,Escape,Yellow,dmj-1112,60585.85
+2002,Plymouth,Neon,Pink,awx-0851,58992.39
+1994,Isuzu,Trooper,Maroon,pqg-2766,75657.21
+2018,Dodge,Ram Wagon B150,Fuscia,xun-3020,49196.98
+2017,Dodge,Magnum,Goldenrod,iql-2445,127746.0
+2008,Dodge,Dakota,Pink,bch-5778,179466.72
+2005,Jeep,Wrangler,Teal,plr-3833,159562.35
+1990,Ford,Taurus,Fuscia,ger-1182,133237.48
+1994,Chevrolet,2500,Mauv,byr-3692,49054.51
+2012,Chevrolet,Impala SS,Violet,rii-3047,147692.56
+1995,Mercedes-Benz,SL-Class,Puce,vgo-7188,5960.81
+2000,Ford,F350,Mauv,kkc-1396,92810.0
+1996,GMC,Sierra 1500,Crimson,tzn-3147,169887.19
+1992,Pontiac,Grand Am,Pink,xbu-8849,186702.18
+2006,Saab,9000,Aquamarine,pgz-6744,49337.48
+2009,Toyota,Previa,Maroon,uqt-2386,108630.34
+2011,Cadillac,Catera,Purple,kbg-8772,5103.18
+2008,Lincoln,Continental,Violet,uhx-2768,150810.01
+2012,Pontiac,Sunbird,Violet,vhy-2278,144471.74
+2015,Toyota,Corolla,Yellow,wkp-1860,173644.5
+1999,Ford,LTD Crown Victoria,Puce,kbq-6965,199877.28
+2011,GMC,Savana 1500,Pink,obp-5850,168107.1
+1991,Mitsubishi,Outlander,Blue,tnc-3473,61739.89
+2022,Volvo,V50,Khaki,iyk-5806,79462.53
+2014,Ford,Econoline E350,Turquoise,cmp-5037,42443.99
+2005,McLaren,MP4-12C,Goldenrod,ogu-2956,146698.75
+2004,Audi,R8,Aquamarine,ulc-7714,139968.79
+2018,Saab,9-5,Khaki,gsu-4935,52842.72
+2021,Cadillac,Fleetwood,Khaki,hgn-0218,9128.74
+1995,GMC,Sierra,Puce,pae-8709,132183.35
+2008,Hummer,H3,Orange,yth-3506,43939.06
+1990,Kia,Sephia,Mauv,uha-0822,160109.96
+2018,Pontiac,GTO,Purple,tld-6128,142001.1
+2017,Acura,SLX,Yellow,wrz-2248,141696.28
+2001,Isuzu,Space,Violet,ceb-7102,194102.98
+2000,Mercedes-Benz,SLK-Class,Orange,dyv-2985,119808.45
+2005,Audi,Q5,Purple,pwi-5474,112194.25
+1996,Chevrolet,Corvette,Maroon,hyn-1078,166322.32
+2020,GMC,Sonoma,Maroon,epn-0081,102754.37
+1997,Scion,xD,Red,qyw-4830,98236.71
+2017,Infiniti,Q,Turquoise,dko-9127,152962.21
+2016,Audi,R8,Yellow,taj-1560,129042.35
+2008,Jaguar,XJ,Orange,ylw-8922,142726.91
+1997,Cadillac,Seville,Teal,mhm-6330,78486.54
+1999,Maserati,Quattroporte,Puce,dxk-6496,170470.38
+2007,Mitsubishi,Montero,Blue,zmp-9676,173000.14
+1992,Volkswagen,Cabriolet,Pink,jbv-1788,94101.52
+1996,Jeep,Grand Cherokee,Teal,xlf-3543,176338.82
+2020,Mitsubishi,Montero,Green,kza-0704,187467.95
+2001,Ford,Expedition,Aquamarine,ivr-9458,33665.02
+2005,Toyota,Corolla,Pink,anv-7935,120607.92
+2018,Ford,F-Series,Yellow,zzd-1431,164795.75
+2019,Saab,9-5,Violet,jdp-4885,87186.56
+1994,Mercedes-Benz,M-Class,Aquamarine,hed-7864,65684.75
+1997,Dodge,Colt,Blue,yuv-0745,143675.15
+2016,Lexus,ES,Orange,ohi-2636,122657.16
+1998,Ford,Mustang,Pink,hnz-9455,195452.89
+2015,Smart,Fortwo,Puce,aej-6316,21747.28
+1993,Pontiac,Sunbird,Teal,idl-7297,28959.29
+1993,Toyota,Tundra,Indigo,ela-4773,131843.94
+2008,Volkswagen,GTI,Puce,rpz-6022,111476.06
+2014,Ford,F350,Goldenrod,jxk-9396,44613.66
+1992,Buick,Skyhawk,Red,tcd-8617,139704.5
+2022,Nissan,Frontier,Purple,isc-5411,62203.95
+2004,Lamborghini,Diablo,Aquamarine,aek-7524,96111.84
+2000,Kia,Sorento,Indigo,apr-2902,158209.76
+2003,Chevrolet,Express 3500,Teal,pej-1415,13103.73
+1996,Pontiac,Sunbird,Puce,ndz-4271,122227.0
+2017,Honda,Passport,Orange,wrk-1381,70192.33
+2010,Dodge,Aries,Orange,txj-2564,142615.46
+2002,Volvo,V50,Goldenrod,oxb-9946,32332.13
+2012,Pontiac,G6,Puce,cde-3239,130601.4
+2021,Mazda,MX-5,Maroon,srf-6245,57543.59
+2017,Oldsmobile,Achieva,Mauv,wnu-1539,86492.76
+2007,BMW,8 Series,Fuscia,pqn-7605,141014.37
+2007,Jeep,Patriot,Khaki,dbz-4177,59397.16
+1999,Ford,Model T,Teal,otw-9518,114738.08
+2015,Mitsubishi,Eclipse,Blue,sme-6629,29770.17
+2020,Mitsubishi,Tundra,Blue,bgp-6631,136260.26
+2014,Dodge,Grand Caravan,Indigo,uiv-6550,188968.88
+2009,Audi,RS 6,Red,scq-7453,99924.19
+2016,Porsche,Cayman,Violet,xbo-4115,176338.47
+2013,Dodge,Caliber,Fuscia,yhc-5902,55361.72
+1991,BMW,5 Series,Teal,wam-8874,37501.52
+2004,Dodge,Spirit,Yellow,vyf-4427,48078.26
+2009,Ford,Thunderbird,Indigo,dhh-7625,36524.45
+1990,Nissan,Pathfinder,Pink,xcc-4025,9425.61
+2007,Volvo,S80,Red,xla-1194,57643.86
+2005,Alfa Romeo,164,Fuscia,ruy-1225,129827.56
+2000,Dodge,Caravan,Indigo,jee-3753,82269.9
+2018,Chevrolet,Cavalier,Khaki,uuq-1185,132812.29
+2008,Jeep,Liberty,Orange,lpr-7436,51334.58
+2002,Volvo,XC60,Crimson,crq-6018,170956.76
+2003,GMC,Envoy XUV,Violet,ohu-8498,176542.74
+2019,Mitsubishi,Expo,Aquamarine,qwl-5771,44307.7
+2006,Lexus,GS,Fuscia,hhl-4267,10762.04
+2013,Plymouth,Breeze,Goldenrod,jml-3949,32863.5
+2015,GMC,Suburban 1500,Orange,cft-3584,70450.21
+2014,Ford,Mustang,Fuscia,leh-0459,80446.37
+1990,Chrysler,Fifth Ave,Blue,bja-1662,73362.16
+2007,Lexus,IS F,Puce,anl-7175,144591.07
+2002,Mitsubishi,Challenger,Indigo,fxh-0665,53957.5
+2021,Chevrolet,G-Series G20,Goldenrod,szg-4585,172246.0
+1995,Chevrolet,Express 2500,Crimson,dzu-9937,18182.32
+1998,Ford,Mustang,Purple,hjt-5946,42297.96
+2018,Honda,Pilot,Mauv,tic-5776,105002.17
+2021,Lexus,GS,Mauv,ufc-7410,144370.41
+2021,Volvo,S40,Turquoise,inr-3044,190132.8
+2015,Chrysler,LeBaron,Orange,nyz-6683,156065.52
+2010,Toyota,RAV4,Mauv,edt-4900,78277.25
+2006,Ford,Five Hundred,Fuscia,uax-2292,198072.4
+2019,Chevrolet,Tracker,Goldenrod,dpx-0831,13093.23
+2011,Volkswagen,Jetta III,Yellow,vjw-3073,5351.33
+2010,Ford,F150,Yellow,bzp-0198,62237.38
+2017,Chevrolet,S10,Maroon,nvo-9265,188373.26
+2017,Ford,Econoline E350,Blue,aib-2064,68712.98
+2003,Toyota,Highlander,Aquamarine,qck-1481,164660.6
+2006,Chevrolet,Corvette,Goldenrod,acl-7574,15455.24
+1993,Mazda,Navajo,Blue,oey-2153,120016.62
+2010,Kia,Sorento,Maroon,kts-3044,187872.99
+2022,Lexus,LS,Orange,wzd-3626,42958.33
+2014,Suzuki,Aerio,Yellow,mmo-1265,161747.44
+1994,Jaguar,XK,Blue,yiu-9905,71758.06
+2011,Mercedes-Benz,G-Class,Purple,gat-6413,60058.1
+2016,Ford,Ranger,Maroon,noz-6791,10064.37
+1996,Infiniti,Q,Maroon,zao-4727,110449.83
+2022,Mitsubishi,Mirage,Pink,hmh-3281,169879.41
+2013,Ford,Thunderbird,Maroon,xhz-8078,17005.26
+2021,Chrysler,Sebring,Red,kqb-6394,167644.72
+1993,Toyota,Tundra,Orange,nnf-4154,128252.61
+1999,Buick,Skylark,Green,yfb-9950,143206.38
+2000,Chevrolet,Beretta,Maroon,hnc-1979,77543.06
+2020,GMC,Yukon,Green,nzf-0582,104969.06
+2015,Mazda,CX-9,Green,zts-1269,80974.41
+2011,Lexus,IS,Mauv,hys-7897,65600.48
+2016,Hyundai,Sonata,Khaki,usf-0053,170154.81
+1993,Audi,TT,Puce,jeh-4828,64149.32
+1996,GMC,Savana 2500,Khaki,gyq-9961,181941.98
+1999,Nissan,Armada,Goldenrod,lcn-2003,100181.13
+2013,Audi,R8,Blue,dcq-2320,21422.8
+1995,Mercury,Sable,Mauv,kqt-7926,164444.18
+2002,Hyundai,Scoupe,Fuscia,jla-7230,121648.69
+2014,Chevrolet,Uplander,Maroon,yej-6582,185138.25
+2015,Saab,9000,Yellow,vkk-1745,199432.15
+2002,Mercedes-Benz,SL-Class,Khaki,vyp-1128,148121.46
+2005,Mercedes-Benz,300D,Purple,clx-4332,48148.48
+2000,Toyota,Avalon,Goldenrod,wst-6430,168618.12
+2022,Volkswagen,GLI,Crimson,uuk-6809,67785.82
+1991,Pontiac,Bonneville,Turquoise,ujl-6749,194475.01
+1990,Toyota,Tercel,Green,hxm-0859,126314.82
+2003,BMW,5 Series,Indigo,wkn-3286,176084.02
+1995,Volvo,S60,Goldenrod,zqp-7064,167283.48
+1992,Dodge,Ram Van 1500,Green,oli-2595,57623.45
+2017,Lincoln,Aviator,Aquamarine,upw-8162,123987.24
+2012,Chrysler,300,Indigo,sni-9105,10388.22
+2017,Nissan,Frontier,Indigo,prc-5031,15527.78
+2004,GMC,Vandura 2500,Khaki,sma-8538,171931.55
+2002,Audi,Quattro,Mauv,jio-6255,193126.46
+1998,Mercedes-Benz,GL-Class,Red,gbv-5857,72622.67
+1990,Dodge,D150 Club,Pink,fnh-3175,135281.34
+1998,Hyundai,Elantra,Violet,quv-3792,182345.07
+2017,Mazda,MX-5,Crimson,fir-3185,84776.47
+1990,Lincoln,Town Car,Aquamarine,wzk-3219,51920.73
+2018,Mercury,Montego,Orange,wig-9657,93152.2
+2009,Ford,Ranger,Indigo,ajb-4660,89368.43
+1997,Ford,Ranger,Crimson,wig-0881,152765.53
+1992,Acura,TL,Indigo,hww-0040,199007.36
+2007,Kia,Sorento,Green,tew-4951,55070.24
+2018,BMW,600,Red,qsx-2465,194300.17
+2015,Ford,Expedition,Fuscia,exm-4541,58980.8
+1990,Infiniti,Q,Khaki,uaq-2261,68690.0
+2006,Plymouth,Laser,Green,hxp-0620,103639.2
+1996,Mazda,CX-7,Goldenrod,bte-1265,128562.83
+2018,Ford,Tempo,Puce,dzv-2108,129120.37
+2015,Cadillac,XLR,Violet,jld-1301,171442.55
+2007,Toyota,Xtra,Green,nsj-4230,46813.09
+2003,Ford,F250,Goldenrod,ixc-8886,150884.3
+2004,Kia,Rio,Purple,lpo-6443,161939.7
+1993,Mercedes-Benz,CLK-Class,Crimson,gjr-4906,42916.04
+2005,Suzuki,Sidekick,Indigo,mzx-8654,199043.85
+2004,Volkswagen,Golf,Pink,ukh-1522,46341.72
+2005,Chevrolet,Silverado 3500,Green,css-0517,144422.61
+2019,Honda,Ridgeline,Purple,xev-8239,88083.88
+1991,Chevrolet,G-Series G30,Aquamarine,rvs-0348,5113.82
+1991,BMW,M,Maroon,nes-1978,140771.72
+2020,Kia,Sephia,Indigo,lea-6474,68325.96
+2017,Lamborghini,Countach,Purple,xck-1989,148611.28
+1994,Volkswagen,Phaeton,Indigo,feh-4802,170038.78
+2011,Honda,Insight,Goldenrod,ajb-1338,35125.12
+2001,Plymouth,Grand Voyager,Crimson,ogj-0420,40877.01
+2005,BMW,5 Series,Yellow,nqf-5911,100556.05
+2004,Dodge,Dakota,Yellow,hwj-5515,51865.39
+2001,Land Rover,LR4,Teal,tzi-6293,167681.61
+1999,Mercury,Cougar,Crimson,zzg-2363,60511.7
+2014,Ford,Fairlane,Purple,zkn-3738,174510.54
+1993,Mazda,MX-5,Red,rnl-5605,11082.11
+2021,Cadillac,CTS,Crimson,fsv-8073,64461.34
+2006,Chevrolet,Corvette,Mauv,lkh-3720,114178.92
+1998,Toyota,MR2,Pink,ayq-9903,142496.93
+1998,Mercury,Sable,Mauv,axq-8483,96030.46
+1995,Bentley,Continental Super,Indigo,jnf-5082,108919.6
+1999,Pontiac,Grand Am,Goldenrod,vsv-8144,14734.88
+2022,Citroën,CX,Aquamarine,waw-3741,58865.82
+2000,Chevrolet,Impala,Blue,pny-1168,66702.09
+2008,Pontiac,LeMans,Fuscia,hxf-5749,94425.5
+2015,Acura,MDX,Violet,elk-6786,192691.71
+2007,Geo,Tracker,Puce,udn-7177,84690.9
+1996,BMW,Z3,Red,rmj-2467,113667.48
+2012,Ford,Festiva,Khaki,zav-5466,46928.2
+2012,Subaru,Outback,Violet,dbr-3150,40764.06
+2002,Bentley,Arnage,Turquoise,rcr-3954,165794.06
+1993,Lincoln,MKX,Aquamarine,yoc-8157,64361.92
+2009,Dodge,Viper,Orange,fxn-4424,81958.04
+2021,Dodge,Viper RT/10,Khaki,bxk-1083,137003.69
+2003,Ford,LTD,Purple,myk-3285,73625.24
+1993,GMC,Yukon XL 2500,Fuscia,afe-8518,82926.42
+2007,Mitsubishi,Raider,Puce,vwn-7003,185632.75
+2013,Kia,Sportage,Puce,xow-2276,198361.88
+2006,Land Rover,Range Rover,Yellow,het-2610,43928.89
+2015,Buick,Coachbuilder,Orange,ztd-3033,164133.74
+2016,Mitsubishi,Lancer,Maroon,zrk-4529,133710.96
+1991,Chrysler,Crossfire,Goldenrod,kao-5555,172606.63
+2016,Honda,del Sol,Goldenrod,hfi-1521,116186.06
+1997,BMW,X3,Mauv,tzq-6417,173265.76
+2018,Lincoln,Mark VIII,Goldenrod,soi-5740,179863.68
+1998,Chevrolet,Express 2500,Teal,enm-3688,19007.54
+1992,Chevrolet,Astro,Green,fve-8602,39439.89
+1995,Land Rover,Freelander,Goldenrod,aws-4707,146845.62
+2011,Saturn,S-Series,Red,ste-9546,168394.5
+2013,Eagle,Talon,Orange,eio-6755,6332.53
+2006,Mercedes-Benz,SL-Class,Crimson,nnf-3658,11177.39
+1991,Lincoln,Continental,Yellow,hsz-0328,107298.18
+2005,Audi,A6,Mauv,keu-0960,178102.43
+2005,Mazda,323,Khaki,dmm-5976,116144.57
+2003,Volkswagen,Cabriolet,Green,fbh-1658,129247.85
+2004,Ford,F350,Aquamarine,ddl-8317,78060.69
+2022,Chevrolet,Caprice Classic,Pink,qdc-0813,17322.15
+2003,GMC,Rally Wagon G3500,Khaki,cxa-0679,50592.4
+2016,Pontiac,Grand Prix,Red,ddx-1384,81663.08
+2016,Jaguar,XJ Series,Puce,unj-1012,179901.31
+1992,Honda,Accord,Pink,rrc-8178,53294.72
+2007,Buick,Skylark,Blue,tuz-3434,195705.55
+2021,Lexus,IS-F,Blue,yhy-5925,78447.21
+1992,Chrysler,Crossfire,Teal,rpu-7557,75431.21
+2003,Chevrolet,Avalanche 1500,Teal,bun-0630,192974.93
+1996,Toyota,Avalon,Crimson,pkv-4632,49612.05
+1996,Lexus,RX Hybrid,Maroon,dkf-5127,97804.58
+1991,BMW,X5,Teal,vcf-9244,179807.51
+2001,Ford,Expedition,Yellow,mtc-9530,157162.83
+2019,Chevrolet,Express 2500,Khaki,ilp-4552,155172.08
+2019,Jeep,Wrangler,Blue,xwa-8858,18043.94
+2020,Volvo,V40,Pink,zzi-4514,69134.14
+2006,Kia,Rondo,Orange,lsb-6400,30982.13
+2008,Toyota,Land Cruiser,Crimson,fyq-9698,101743.91
+2022,MINI,Cooper Clubman,Teal,rbz-5517,73564.83
+2012,Plymouth,Acclaim,Maroon,oak-5756,7705.72
+1999,Pontiac,Grand Prix,Aquamarine,reb-3997,9192.0
+2015,Ford,Mustang,Goldenrod,iwc-1226,18943.16
+1998,Mazda,929,Puce,izg-5562,100443.6
+2010,Pontiac,Fiero,Indigo,pje-7280,45482.66
+1994,Cadillac,CTS-V,Pink,kec-2629,139653.98
+2011,Isuzu,Rodeo,Green,hgp-4181,39259.5
+2016,Subaru,Legacy,Indigo,fep-3369,195041.33
+1994,Ford,EXP,Goldenrod,bft-6257,18938.55
+2011,Mazda,Mazda5,Pink,uaz-7222,94385.2
+1992,Honda,Pilot,Red,xlx-4759,88194.47
+1991,Cadillac,Catera,Mauv,nhf-0248,189044.7
+2000,Ford,Edge,Turquoise,hvk-2641,108472.67
+2003,Saab,9-5,Purple,glf-3391,136155.18
+2011,Pontiac,Parisienne,Aquamarine,kzd-6029,140925.5
+2001,Dodge,Viper,Maroon,sry-8905,80350.63
+1990,Jeep,Liberty,Blue,ljr-4857,192957.79
+2005,Mercedes-Benz,E-Class,Goldenrod,ogf-9260,189538.57
+2006,Pontiac,GTO,Aquamarine,azg-2341,10067.05
+2013,Cadillac,CTS,Teal,uqz-9182,133265.13
+2013,Mercury,Cougar,Yellow,vwa-1017,13870.83
+2006,BMW,5 Series,Turquoise,jjt-8714,131379.48
+1996,Buick,Enclave,Crimson,slb-7664,97881.5
+2013,MINI,Cooper Clubman,Purple,sen-4603,6132.7
+1992,Nissan,Pathfinder,Maroon,aco-8691,56276.12
+2013,BMW,3 Series,Fuscia,vnf-0203,74049.27
+1992,Suzuki,Aerio,Blue,evi-5748,130526.29
+2009,Jeep,Wrangler,Blue,sfm-9195,123890.01
+2011,Land Rover,Discovery,Blue,kfz-1755,138416.92
+2022,Mazda,Mazda6,Green,tsr-3729,154071.26
+2004,Nissan,Pathfinder,Red,gge-1313,174649.12
+2001,Volvo,XC90,Mauv,dvo-5121,114689.71
+2003,Nissan,350Z,Maroon,lai-5853,86082.91
+2009,Volkswagen,Eurovan,Yellow,xco-9630,60482.73
+1998,BMW,7 Series,Indigo,uad-6304,40520.81
+1993,Subaru,Legacy,Teal,lkq-0077,198727.96
+1999,Ford,Aspire,Fuscia,mhj-4895,67506.14
+2005,Ford,F-Series,Orange,knr-4275,133878.6
+1996,Dodge,Dakota Club,Maroon,ytz-4000,30172.34
+1996,Chevrolet,Astro,Goldenrod,gqy-0359,79555.34
+2020,Mercedes-Benz,CLS-Class,Teal,rjs-2563,114824.51
+1993,Ford,Expedition,Turquoise,eep-8235,47243.11
+2016,Land Rover,Range Rover,Orange,nzm-5256,166148.58
+1992,Mitsubishi,Outlander,Fuscia,jgy-4881,188063.26
+2007,Mazda,Tribute,Goldenrod,mwe-8574,154932.34
+1999,Audi,RS 4,Fuscia,iwa-9415,7671.96
+1996,Hyundai,Tiburon,Yellow,seb-2896,189809.29
+2019,Ford,Edge,Yellow,gnz-7637,120520.29
+1991,Infiniti,G,Indigo,loy-6933,110740.65
+2022,Toyota,Land Cruiser,Orange,hvi-2872,153377.18
+2010,Audi,Q5,Fuscia,fkb-0599,184248.97
+1993,GMC,Sierra 1500,Green,pyu-1587,49873.38
+2012,Lincoln,Mark VIII,Crimson,sgq-5191,113641.36
+1996,Eagle,Summit,Crimson,aie-4999,148154.99
+1995,Chevrolet,Impala,Maroon,jww-4969,72648.49
+2017,Volkswagen,Type 2,Turquoise,dkh-1711,37188.46
+2011,Isuzu,i-Series,Fuscia,don-2971,39496.62
+2002,Porsche,Cayman,Violet,fiy-1109,62372.89
+2021,GMC,Savana 3500,Aquamarine,aha-7463,169432.46
+2003,Toyota,Avalon,Mauv,bpa-2587,105117.48
+2022,Ferrari,430 Scuderia,Fuscia,kjq-4059,46438.7
+2001,Kia,Rio,Green,hjr-6024,149293.79
+2011,Toyota,RAV4,Blue,mmw-9648,104957.12
+1990,Dodge,Ram 1500,Teal,lpt-5075,52436.61
+2022,GMC,Yukon,Green,bbb-9588,121739.45
+2000,Buick,Riviera,Khaki,ajx-4127,126296.38
+1998,Ford,Aerostar,Teal,fkr-3503,181949.87
+1997,Jeep,Commander,Khaki,vul-1679,93205.71
+2017,Dodge,Ram 3500 Club,Crimson,acp-0480,136920.71
+2020,Suzuki,Vitara,Crimson,nmy-2260,45841.85
+1994,BMW,X6 M,Purple,huu-3004,53298.76
+2004,Mercury,Cougar,Violet,xru-4455,141236.47
+2004,Subaru,Alcyone SVX,Crimson,gyp-8705,7120.39
+1994,Chevrolet,Avalanche,Orange,ger-8264,187938.03
+2001,Ford,Bronco,Yellow,ksa-0858,20346.05
+2008,Pontiac,Firefly,Khaki,xle-1861,13859.83
+2013,Audi,A3,Purple,fje-3076,163369.08
+2015,Maserati,Quattroporte,Green,ivj-7094,80238.85
+2009,Chevrolet,Tahoe,Yellow,iox-6259,24350.91
+1997,GMC,Savana 1500,Turquoise,tah-3456,158468.55
+1998,Chevrolet,Equinox,Red,tym-8380,157602.16
+2022,Ford,Mustang,Yellow,xuu-6539,122128.59
+2010,Chevrolet,Express,Goldenrod,nkh-4439,85873.46
+2018,Ford,Contour,Yellow,szy-6133,22703.01
+1997,Mitsubishi,Galant,Violet,wmf-3156,125565.04
+2014,BMW,M6,Blue,eqd-6017,117498.19
+2000,Kia,Rio,Red,hmh-7666,197797.04
+1996,Hyundai,Tucson,Indigo,ryu-2249,116463.49
+2012,Infiniti,QX,Mauv,eav-2370,133419.94
+2010,Chevrolet,Avalanche,Yellow,wya-8521,114288.59
+2021,Buick,Regal,Red,kgm-6038,160956.65
+2002,Mercury,Cougar,Khaki,tgz-6390,142534.92
+2001,Pontiac,Firebird,Crimson,ulu-0943,104241.92
+2003,Kia,Sedona,Mauv,mum-5875,130720.07
+1992,Honda,Accord,Orange,cwk-9428,88599.58
+2022,Mazda,Mazda3,Violet,wnk-1103,47226.74
+2018,Volkswagen,GTI,Khaki,nrt-9689,176884.58
+2010,Acura,NSX,Yellow,mip-5674,41671.48
+2012,Volkswagen,Type 2,Orange,ikq-6028,32155.76
+2003,Dodge,Intrepid,Indigo,fix-8994,119890.89
+1997,Chevrolet,Corvette,Green,zsk-0957,91632.04
+2022,Ford,F350,Maroon,ulu-8819,108542.16
+2014,BMW,600,Teal,xnb-2717,12174.92
+2015,Infiniti,J,Pink,tsy-4979,107733.07
+2013,Chevrolet,Express 2500,Mauv,whu-9115,38591.55
+2016,Audi,A6,Crimson,zhc-7140,114156.07
+2019,Ford,F250,Blue,okc-6284,33942.26
+1991,Lincoln,Continental,Crimson,rur-8689,188157.5
+1992,Ford,Probe,Turquoise,hwc-1581,102299.16
+2011,Dodge,Caravan,Yellow,zcg-4241,39595.94
+2012,Ford,Windstar,Orange,mob-5184,189061.68
+2004,GMC,Envoy XUV,Goldenrod,ked-8632,119228.93
+1994,Saturn,Relay,Indigo,pus-2079,175986.56
+2004,Ford,F250,Yellow,vvb-7292,98751.82
+2003,Saab,9-5,Goldenrod,yzj-2550,146910.11
+2002,Buick,Skylark,Fuscia,beu-1196,193508.69
+1998,Oldsmobile,Bravada,Yellow,yhf-3515,146890.96
+1993,Mitsubishi,Outlander,Green,uzm-6864,180692.53
+2009,Ford,Probe,Purple,tid-1284,130907.27
+2018,Oldsmobile,Alero,Mauv,wfh-7722,129077.65
+2010,Dodge,Dakota,Yellow,lvd-0659,104980.58
+2007,Kia,Spectra5,Green,tta-1099,5911.99
+1996,Chevrolet,Cobalt,Indigo,tur-3824,157862.12
+1991,GMC,Acadia,Fuscia,ygy-0378,189417.46
+2022,Mitsubishi,Eclipse,Green,gcs-5962,24121.99
+1998,Ford,F350,Mauv,qya-0486,185178.31
+2000,Dodge,Dakota Club,Teal,omn-7069,184284.66
+2001,Mercedes-Benz,CLK-Class,Turquoise,onk-0145,32648.08
+2002,GMC,Vandura 3500,Pink,xwy-2399,120284.74
+2014,Cadillac,CTS,Indigo,drk-7826,189409.06
+1998,Infiniti,I,Indigo,iva-4091,134197.41
+2000,Pontiac,Trans Sport,Orange,fbh-7266,197731.27
+2018,Nissan,NV1500,Crimson,ikk-1510,62139.64
+2011,Ford,E350,Green,hxc-4617,162820.81
+1999,Acura,CL,Purple,tkb-1242,58116.5
+2019,Chrysler,Concorde,Turquoise,wcx-1475,142316.5
+2003,Mercedes-Benz,C-Class,Pink,ymj-0025,158204.74
+2001,Infiniti,QX,Khaki,bvz-1658,140516.89
+1995,Ford,Thunderbird,Purple,isz-0017,56814.43
+2015,Mercedes-Benz,C-Class,Crimson,hjx-2081,98340.13
+2009,Cadillac,STS,Maroon,ltl-3036,37419.75
+1998,Buick,Regal,Blue,esg-1782,42007.28
+2007,Maybach,62,Fuscia,wlu-7087,124251.77
+2007,Volvo,C70,Turquoise,ivy-4005,43768.74
+2018,Toyota,Highlander,Violet,tch-2469,129547.01
+2020,Mazda,Mazda2,Turquoise,tbt-5829,51296.5
+1993,Chevrolet,Blazer,Fuscia,xff-8200,8818.06
+2001,Land Rover,Discovery,Green,ebu-5519,25566.91
+2014,Oldsmobile,LSS,Khaki,gyy-7375,10606.78
+1998,Subaru,Alcyone SVX,Red,avl-8364,65562.0
+2014,Ford,Explorer Sport,Mauv,cya-5349,95802.92
+1999,Mitsubishi,Eclipse,Green,nmr-5614,107282.56
+2001,Toyota,Avalon,Puce,mjm-4476,88730.61
+2022,Ford,Fusion,Green,bsl-6567,143350.43
+2012,Chevrolet,TrailBlazer,Green,nlj-0865,114217.83
+1993,Mitsubishi,Galant,Green,wie-5872,185094.77
+2011,Chevrolet,1500,Turquoise,waz-2664,151465.45
+2013,Volvo,960,Purple,wbq-1898,134643.54
+2009,Ford,Taurus,Maroon,vld-3366,173918.14
+2007,Lexus,RX,Red,swl-6695,191144.0
+1995,Chrysler,Sebring,Pink,jzs-8020,87341.35
+2002,Chevrolet,Silverado 3500,Pink,hxe-7911,113186.08
+1992,Honda,Odyssey,Maroon,huf-8897,163404.95
+2021,Volkswagen,Touareg,Puce,bhg-8351,53048.9
+2020,Volkswagen,GTI,Yellow,aly-5524,43298.93
+2020,Toyota,Corolla,Maroon,zgf-6058,63975.52
+1992,Dodge,Ram 1500,Khaki,kbv-6965,72876.27
+2013,Toyota,Tundra,Purple,ooe-4472,32112.39
+1994,Ford,Explorer,Green,pat-0532,64864.05
+2003,Eagle,Talon,Mauv,ftn-0810,133023.17
+1996,Audi,A3,Goldenrod,zek-3730,111241.19
+1997,Chrysler,Town & Country,Pink,ilb-9337,178902.44
+2002,BMW,Z3,Khaki,khw-0392,176124.64
+2018,Ford,GT,Puce,bdb-6011,143304.78
+1997,Buick,Century,Pink,vhe-6747,62344.39
+2021,Land Rover,Range Rover Sport,Teal,ivy-9824,156738.63
+2021,Pontiac,Grand Prix,Red,tco-7011,195487.54
+2002,Mazda,Mazda3,Violet,vny-1238,195963.8
+2010,Audi,A6,Turquoise,xva-0398,38893.18
+2001,Audi,A3,Yellow,otl-5066,190647.3
+2009,Audi,A6,Maroon,ckb-9890,98866.93
+2018,Buick,Coachbuilder,Fuscia,qnt-9724,196978.29
+2005,Buick,Regal,Goldenrod,iwj-6427,107160.11
+2004,Ford,F350,Teal,fus-8331,49265.93
+2010,Toyota,4Runner,Fuscia,nmn-6108,173632.35
+2020,Honda,Prelude,Violet,aat-5695,130375.86
+2003,Chevrolet,Silverado 1500,Puce,nye-9139,121674.04
+1995,Mercedes-Benz,SLR McLaren,Mauv,fsx-8594,178931.49
+2020,Dodge,D350 Club,Mauv,uov-9799,13293.12
+2013,Infiniti,Q,Puce,byw-0210,101384.9
+2005,Infiniti,FX,Violet,yzo-5563,195302.53
+1994,Ford,Focus,Goldenrod,mto-5304,120686.48
+1997,Suzuki,Grand Vitara,Crimson,jzq-8646,181337.48
+2006,Hyundai,Sonata,Yellow,maq-0280,181798.7
+1990,Buick,Skyhawk,Crimson,drl-5038,152572.84
+2019,Toyota,Highlander,Maroon,qbr-6401,178626.13
+2022,Mazda,CX-9,Mauv,lpn-9562,45726.84
+2012,Ford,F-Series Super Duty,Violet,ipm-7101,111504.78
+2016,Mercedes-Benz,CLS-Class,Khaki,xvj-2431,158443.74
+2013,Cadillac,DeVille,Blue,ouc-5901,162267.91
+1996,Suzuki,SX4,Aquamarine,ucd-8358,141068.9
+2012,BMW,325,Blue,ftr-9715,18616.64
+1991,Ford,Explorer,Violet,ycq-4277,187490.94
+2004,Lexus,LS,Fuscia,mxr-5599,139208.25
+2004,Honda,del Sol,Teal,xbp-8202,18970.25
+2010,Ford,F150,Red,tpz-6299,108534.06
+2004,Dodge,Viper,Khaki,ljj-8987,133762.08
+2002,Mitsubishi,Challenger,Maroon,phl-7581,184721.15
+2013,Dodge,Ram 3500,Mauv,jcg-9365,123643.14
+2004,Ford,Tempo,Indigo,bzy-9803,62299.88
+2008,Porsche,911,Teal,tzf-4654,45113.66
+2001,Aston Martin,DB9,Maroon,ume-3264,12565.2
+2003,Nissan,Frontier,Red,ngv-8065,143987.4
+2014,Ford,ZX2,Pink,pas-5316,87956.48
+2002,Mitsubishi,Lancer Evolution,Red,lgv-8561,73330.58
+2009,Volkswagen,GTI,Indigo,ulg-9023,83912.83
+2010,Mercedes-Benz,300CE,Crimson,ivs-1400,89989.93
+1993,Lexus,RX Hybrid,Teal,yfs-4303,159908.99
+2015,Volkswagen,Jetta,Crimson,mms-6190,137640.04
+1992,Mazda,Tribute,Blue,kuk-8959,117807.25
+2004,Dodge,Challenger,Aquamarine,ibc-3724,112195.77
+2014,Audi,S5,Green,cdk-0644,37019.5
+2001,Nissan,350Z,Goldenrod,arp-8242,31976.24
+2006,Toyota,Avalon,Mauv,dul-9120,44632.02
+1998,Chevrolet,Camaro,Orange,zva-3492,100367.86
+1998,Lotus,Elise,Green,ewx-8293,161331.42
+1990,Chevrolet,Avalanche,Purple,rij-2519,28652.61
+1996,Aston Martin,DB9,Khaki,vxn-2064,163927.75
+1994,Mercedes-Benz,E-Class,Blue,mee-6835,153279.88
+1990,Ford,E-Series,Pink,cru-1039,82923.21
+2022,Lamborghini,Diablo,Aquamarine,hid-9573,25551.35
+2018,Chevrolet,Corvette,Maroon,maw-1442,35236.3
+2012,Nissan,Quest,Violet,bmv-1117,94910.52
+2000,Chevrolet,Colorado,Teal,nsv-8197,55628.98
+1993,Ram,1500,Turquoise,jtl-6184,67437.16
+2009,Mazda,MX-5,Turquoise,gkj-5478,82394.88
+1991,Chevrolet,Impala SS,Indigo,cvv-6201,115187.94
+2009,Honda,Civic,Puce,yuu-4197,166724.18
+2006,Nissan,Maxima,Purple,wla-7824,146900.21
+2004,Chrysler,PT Cruiser,Puce,imc-1118,140513.43
+1991,Volkswagen,GTI,Purple,hzv-4227,116310.32
+1997,Nissan,Murano,Khaki,xsp-0250,153396.61
+2021,Mazda,CX-7,Khaki,toh-1113,129343.98
+2007,Mitsubishi,Galant,Khaki,ezo-2471,135635.0
+2009,Lotus,Esprit,Goldenrod,zfs-7881,46805.43
+2002,Mercedes-Benz,SL-Class,Khaki,qle-0033,141803.86
+1992,Audi,A4,Turquoise,pyf-2916,181214.76
+2008,Dodge,Viper,Purple,kvi-9481,95405.87
+2007,Audi,A4,Orange,frw-7030,125772.98
+2012,Land Rover,Range Rover,Puce,tzg-6602,8545.16
+1998,GMC,Yukon,Indigo,lzg-2453,113796.57
+2020,Mazda,Mazda3,Yellow,fha-1264,8274.27
+2012,Mazda,Mazda3,Green,skl-3556,92449.73
+2020,Mazda,B-Series Plus,Crimson,cih-7421,126839.7
+2009,Jaguar,XJ Series,Puce,yhb-2990,37195.87
+1991,Chevrolet,Malibu,Crimson,tvj-5457,87150.55
+1995,Nissan,350Z,Maroon,zcx-9016,53395.02
+2022,Dodge,Ram Wagon B350,Teal,xsw-1546,180054.89
+2018,GMC,Yukon XL 1500,Blue,hcv-6228,41482.51
+2005,Kia,Soul,Yellow,zay-7686,38470.96
+2016,Dodge,Ram Wagon B250,Crimson,uqz-3849,33532.91
+2015,Pontiac,Firebird,Mauv,saq-8028,10994.64
+1996,Volkswagen,Passat,Crimson,yev-8769,58691.87
+1998,Mitsubishi,Endeavor,Crimson,gct-4507,57665.37
+2012,Saturn,Relay,Blue,aru-6078,130602.04
+1991,Lotus,Elise,Orange,wye-1624,166124.82
+2002,Ford,Th!nk,Crimson,xlc-9996,153876.81
+2013,Toyota,Celica,Maroon,iir-6656,141968.42
+1996,Ford,E-Series,Orange,dst-2132,60980.58
+2010,Dodge,Ram 1500,Goldenrod,loj-6582,117396.26
+1990,Subaru,Outback,Puce,tmi-3242,145743.49
+1997,Subaru,XT,Goldenrod,qcr-8238,64531.68
+2017,Chevrolet,Silverado 1500,Pink,arp-0127,99188.45
+2011,Chevrolet,Tracker,Mauv,qlg-1204,102556.2
+2013,Toyota,T100 Xtra,Khaki,mbm-5094,194627.43
+1995,Audi,Allroad,Goldenrod,axp-3656,82280.12
+1994,Chevrolet,G-Series 1500,Teal,itx-0783,180461.95
+2020,Ford,E350,Indigo,jgh-8646,68232.84
+2006,Ford,GT500,Turquoise,oei-8251,62495.75
+2004,Ford,Taurus,Green,ate-0220,138100.73
+2002,Saturn,Sky,Yellow,qip-9685,143250.13
+2013,Isuzu,Rodeo,Maroon,ciw-7881,93594.89
+2002,Volvo,XC90,Crimson,qop-7709,29889.44
+1998,Ford,Excursion,Blue,btj-9526,50800.35
+2004,Mazda,Mazda2,Puce,miz-2358,173765.24
+2006,Lamborghini,Gallardo,Fuscia,qcd-5050,91153.16
+1993,Chevrolet,Camaro,Aquamarine,yiq-8436,199610.81
+2003,Toyota,Tundra,Khaki,kqi-3694,102109.21
+1999,Ford,Bronco II,Indigo,dts-9488,48174.74
+1999,GMC,Sierra 3500,Orange,ceh-8074,82957.93
+1991,Toyota,Tacoma,Orange,xny-9896,11525.81
+2001,Toyota,Highlander,Aquamarine,ikc-1235,160067.79
+2011,Oldsmobile,Silhouette,Mauv,gmb-7583,32571.92
+2022,Land Rover,Range Rover Evoque,Red,dit-5609,78854.58
+1993,Honda,Civic Si,Crimson,zxp-1411,144187.54
+2006,Mitsubishi,Mighty Max,Mauv,msc-2645,125375.98
+2005,Studebaker,Avanti,Indigo,eus-2014,63428.97
+2005,Cadillac,Eldorado,Fuscia,hmp-8853,107198.92
+2006,Kia,Sorento,Maroon,nrk-9777,84001.5
+2017,Land Rover,Discovery Series II,Blue,oun-1348,95909.33
+1992,Maybach,57,Khaki,wcm-9548,92295.72
+2002,Hummer,H2,Indigo,xus-1501,133161.35
+2019,Pontiac,Grand Prix,Crimson,psk-0524,193433.72
+1993,Aston Martin,Vantage,Maroon,buc-7663,177939.29
